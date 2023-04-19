@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:mshsu@calpoly.edu"
   - label: Portfolio
-    url: "https://www.wendys.com/"
+    url: "mshsu.github.io/portfolio/home.html"
 output: postcards::jolla
 ---
 
