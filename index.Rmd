@@ -8,8 +8,6 @@ links:
     url: "https://github.com/mshsu"
   - label: Email
     url: "mailto:mshsu@calpoly.edu"
-  - label: Portfolio
-    url: "mshsu.github.io/portfolio/home.html"
 output: postcards::jolla
 ---
 
